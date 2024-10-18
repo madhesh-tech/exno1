@@ -1,4 +1,4 @@
-# Exno:1
+![Screenshot 2024-10-17 202434](https://github.com/user-attachments/assets/796cad38-14e8-4343-807d-4bcc3d87dbda)# Exno:1
 Data Cleaning Process
 
 # AIM
@@ -21,6 +21,7 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
+            [Screenshot 2024-10-17 202434](https://github.com/user-attachments/assets/53ed5a99-e9b3-4dfe-869a-0aeea54154dc)
+
 # Result
           <<include your Result here>>
